@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Prijestupne\obj\Debug\Prijestupne.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Prijestupne\obj\Debug\Prijestupne.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Prijestupne\obj\Debug\Prijestupne.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Prijestupne\bin\Debug\Prijestupne.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Prijestupne\bin\Debug\Prijestupne.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Prijestupne\bin\Debug\Prijestupne.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Prijestupne\obj\Debug\Prijestupne.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Prijestupne\obj\Debug\Prijestupne.pdb
