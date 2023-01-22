@@ -25,13 +25,12 @@ namespace Najvise_Slova
                     {
                         br++;
                     }
-
-                    if(br > brMax)
+                }
+                 if(br > brMax)
                     {
                         znak = rijec[i];
                         brMax = br;
                     }
-                }
             }
 
             Console.WriteLine("Najkorišteniji znak je " + znak + ", " + brMax + " puta.");
